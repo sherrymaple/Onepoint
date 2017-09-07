@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header,section,footer{
+	margin: 0px auto;
+}
+a{
+	position: relative;
+	
+}
+select{
+	position: absolute;
+	top: 17px;
+	
+	border: 0px;
+	background: transparent;
+}
+nav a{
+	text-decoration: none;
+	color:dimgrey;
+}
